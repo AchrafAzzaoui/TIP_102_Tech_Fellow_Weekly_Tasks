@@ -1,4 +1,4 @@
-### SESSION 2, VERSION 1, Fashion Brand Problem Set
+### SESSION 1, VERSION 1, Advanced Problem Set
 
 # PROBLEM 1: Brand Filter
 
